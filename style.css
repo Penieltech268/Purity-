@@ -1,0 +1,115 @@
+*{
+  margin:0;
+  padding:0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.head{
+  background: whitesmoke;
+  color:black;
+  padding: 15px;
+  border-radius: 15px;
+  margin: 15px;
+  position: sticky;
+  top: 0;
+  
+}
+
+body{
+  background: black;
+}
+
+span{
+  color: purple;
+}
+
+.subject{
+  background: whitesmoke;
+  color: purple;
+  padding: 15px;
+  font-size:20px;
+  border-radius: 15px;
+}
+
+.pic{
+  margin-top: 80px;
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: center;
+  margin-bottom: 80px;
+}
+button{
+ background: purple; 
+ padding: 10px 35px;
+ color: white;
+ border-radius: 10px;
+}
+
+.btn{
+  padding: 15px;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.content{
+  padding: 15px;
+  background: whitesmoke;
+  border-radius: 15px;
+  margin-top: 10px;
+  
+}
+.purity{
+  padding: 15px;
+  background: white;
+  border-radius: 15px;
+ 
+}
+
+p {
+  margin-top:15px;
+  color: purple ;
+  font-size: 17px
+  font-family:;
+}
+
+.sexual{
+  margin-top:15px;
+  background: white;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.why{
+  margin-top: 15px;
+  background: white;
+  padding: 15px;
+  border-radius: 15px;
+}
+ul {
+  padding: 15px;
+  color: purple;
+}
+
+.how{
+  margin-top: 15px;
+  background: white;
+  padding: 15px;
+  border-radius: 15px;
+}
+h2{
+  color: purple;
+}
+
+.where{
+  margin-top: 15px;
+  background: white;
+  padding: 15px;
+  border-radius: 15px;
+}
+h5{
+  margin-top: 20px;
+  text-align: center;
+  color: purple;
+  font-size: 20px;
+}
